@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "mohamedkhaled700612-cpu",
+    "email": "mohamedkhaled700612@gmail.com"
+  },
+  "domain": "elbatanoun-school",
+  "records": {
+    "CNAME": "mohamedkhaled700612-cpu.github.io"
+  }
+}
